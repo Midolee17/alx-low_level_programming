@@ -6,6 +6,7 @@
  */
 
 int main(void)
+
 {
 
 	putchar('_');
@@ -19,5 +20,4 @@ int main(void)
 	putchar('\n');
 
 	return (0);
-
 }
